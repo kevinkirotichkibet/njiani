@@ -1,0 +1,23 @@
+{
+  "name": "njiani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkirotichkibet/njiani.git"
+  },
+  "keywords": [
+    "njiani",
+    "mechanic"
+  ],
+  "author": "Njiani team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkirotichkibet/njiani/issues"
+  },
+  "homepage": "https://github.com/kevinkirotichkibet/njiani#readme"
+}
